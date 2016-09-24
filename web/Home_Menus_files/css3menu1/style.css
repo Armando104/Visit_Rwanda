@@ -1,0 +1,33 @@
+ul#css3menu1{
+	margin:0 0%;list-style:none;padding:10px 1% 10px 0%;background-color:;border-width:0;border-style:solid;border-color:;font-size:0;width:99%;z-index:999;position:relative;display:inline-block;zoom:1;border-radius:0px;-moz-border-radius:0px;-webkit-border-radius:0px;
+	*display:inline;*padding-right:1.76%;}
+ul#css3menu1 li{
+	display:block;white-space:nowrap;font-size:0;float:left;}
+* html ul#css3menu1 li a{
+	display:inline-block;}
+ul#css3menu1>li{
+	margin:0 0% 0 1%;width:24%;}
+body:first-of-type ul#css3menu1{
+	display:inline-table;border-spacing:10px 0;}
+body:first-of-type ul#css3menu1>li{
+	display:table-cell;float:none;}
+ul#css3menu1 a:active, ul#css3menu1 a:focus{
+	outline-style:none;}
+ul#css3menu1 a{
+	display:block;vertical-align:middle;text-align:center;text-decoration:none;font:bold 13px "Times New Roman",Times,serif;color:#ffffff;cursor:default;padding:3px;background-color:#002118;background-repeat:repeat;border-width:0px;border-style:none;border-color:;}
+ul#css3menu1 li:hover>a,ul#css3menu1 li a.pressed{
+	background-color:#FFFFFF;border-style:none;color:#000000;text-decoration:none;}
+ul#css3menu1 img{
+	border:none;vertical-align:middle;margin-right:3px;}
+ul#css3menu1>li>a{
+	padding:3px 10px;}
+ul#css3menu1 li.topmenu>a{
+	border-width:0 0 3px 0;border-style:none;border-radius:0px;-moz-border-radius:0px;-webkit-border-radius:0px;padding:3px 10px;}
+ul#css3menu1 li.topmenu:hover>a,ul#css3menu1 li.topmenu a.pressed{
+	border-style:none;}
+ul#css3menu1 li.toplast>a{
+	border-width:0 0 3px 0;border-style:none;border-radius:0px;-moz-border-radius:0px;-webkit-border-radius:0px;padding:3px 10px;}
+ul#css3menu1 li.toplast:hover>a,ul#css3menu1 li.toplast a.pressed{
+	border-style:none;}
+ul#css3menu1>li:nth-child(1){width:15%}ul#css3menu1>li:nth-child(2){width:36%}ul#css3menu1>li:nth-child(3){width:30%}ul#css3menu1>li:nth-child(4){width:15%}
+@-moz-document url-prefix(){body:first-of-type ul#css3menu1{display:inline-block} body:first-of-type ul#css3menu1>li{display:block;float:left !important;}}
